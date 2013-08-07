@@ -88,6 +88,8 @@ ActiveResourceHttpMock.configure do |config|
 end
 ```
 
+The default store is 'spec/fixtures/httpmock'.
+
 
 Contributing
 ------------
